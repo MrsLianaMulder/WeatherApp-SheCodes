@@ -1,0 +1,58 @@
+h1 {
+  color: black;
+
+  margin-bottom: 2px;
+  font-size: 45px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h1,
+h6 {
+  margin-right: 50px;
+  margin-top: 10px;
+}
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 40px;
+  color: rgba(3, 3, 3, 0.286);
+}
+li {
+  list-style: none;
+  text-transform: capitalize;
+}
+.container {
+  max-width: 500px;
+  max-height: 500px;
+}
+.card {
+  margin-top: 20px;
+  border-width: 2px;
+  border-color: rgb(180, 178, 178);
+  box-shadow: 12px 12px 2px 1px rgba(81, 132, 95, 0.1);
+}
+.card-body {
+  background-color: rgb(231, 233, 233);
+}
+.weekly-weather {
+  margin-top: 20px;
+  background-color: rgba(82, 86, 85, 0.1);
+  padding: 25px 15px;
+  border-radius: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn {
+  border-radius: 45px;
+}
+.current-weather-icon {
+  font-size: 85px;
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 18px;
+}
+
+.weather-icons {
+  font-size: 25px;
+  color: rgba(14, 14, 14, 0.6);
+}
