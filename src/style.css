@@ -22,6 +22,9 @@ li {
   list-style: none;
   text-transform: capitalize;
 }
+ui {
+  list-style: none;
+}
 .container {
   max-width: 500px;
   max-height: 500px;
@@ -55,4 +58,7 @@ li {
 .weather-icons {
   font-size: 25px;
   color: rgba(14, 14, 14, 0.6);
+}
+.git-link {
+  text-align: center;
 }
